@@ -6,7 +6,7 @@ Typed DMMs were first introduced in _"Dataflow matrix machines as programmable, 
 
 https://arxiv.org/abs/1605.05296
 
-There were several untyped implementations including our current reference implementation:
+There were several untyped implementations in 2015-2018 including our current reference implementation:
 
 https://github.com/jsa-aerial/DMM
 
