@@ -1,6 +1,8 @@
-# Typed dataflow matrix machines using various kinds of linear streams
+# Typed dataflow matrix machines 
 
-Typed DMMs were first introduced in "Dataflow matrix machines as programmable, dynamically expandable, self-referential generalized recurrent neural networks":
+Typed DMMs are capable of using various kinds of linear streams within one DMM.
+
+Typed DMMs were first introduced in _"Dataflow matrix machines as programmable, dynamically expandable, self-referential generalized recurrent neural networks"_:
 
 https://arxiv.org/abs/1605.05296
 
