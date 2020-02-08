@@ -44,4 +44,6 @@ namely the direct sum of all streams from a DMM signature.
 Then any particular kind of linear streams is a projection from the sum of all streams, and one can say that
 when taking the linear combination, a projection to the kind of the target stream is done.
 
-This opens a possibility of considering nontrivial projects between different kind of linear streams in the future. 
+This opens a possibility of considering nontrivial "coercions" between different kind of linear streams in the future,
+so that non-zero coefficients between streams of different kinds could actually result in non-zero contributions (at least,
+in some cases). 
